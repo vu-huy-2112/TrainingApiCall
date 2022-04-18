@@ -1,4 +1,4 @@
-package com.example.trainingapicall
+package com.example.trainingapicall.repository
 
 import com.example.trainingapicall.CmmVariable.Companion.BASE_URL
 import com.example.trainingapicall.api.APIWeb
